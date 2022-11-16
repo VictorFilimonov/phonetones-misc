@@ -1,0 +1,6 @@
+<NOTE;ch=10>
+num=0;AUDIO=sample1.wav
+
+<CTRL;ch=10>
+num=60;AUDIOVOL
+num=61;AUDIOPAN

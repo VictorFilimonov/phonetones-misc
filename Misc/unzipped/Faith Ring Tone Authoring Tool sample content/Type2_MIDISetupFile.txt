@@ -1,0 +1,17 @@
+<UCS>
+TestSound=17,00,,sample.dra
+
+
+<NOTE;ch=10>
+num=0;AUDIO=sample3.wav,1
+num=1;AUDIO=sample4.wav,2
+
+<NOTE;ch=2>
+num=85;LED+=1
+num=97;VIB+=1
+
+<CTRL;ch=10>
+num=60;AUDIOVOL=1
+num=61;AUDIOPAN=1
+num=60;AUDIOVOL=2
+
