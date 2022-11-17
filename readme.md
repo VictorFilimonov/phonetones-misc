@@ -1,2 +1,3 @@
-Коллекция рингтонов с onj3.andrelouis.com/phonetones
-misc
+Коллекция рингтонов с http://onj3.andrelouis.com/phonetones
+---
+Папка Misc
